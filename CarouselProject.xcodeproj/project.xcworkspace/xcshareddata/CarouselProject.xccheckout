@@ -12,20 +12,24 @@
 	<dict>
 		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
 		<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+		<key>BAAAD54D2FFE42761A79DEEBEAF9C361397E0B1C</key>
+		<string>github.com:kellyxu1981/Carousel_Prototype.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CarouselProject/CarouselProject.xcodeproj</string>
+	<string>CarouselProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</key>
 		<string>../../..</string>
+		<key>BAAAD54D2FFE42761A79DEEBEAF9C361397E0B1C</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:kellyxu1981/wireframe_Ypool.git</string>
+	<string>github.com:kellyxu1981/Carousel_Prototype.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
+	<string>BAAAD54D2FFE42761A79DEEBEAF9C361397E0B1C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -34,7 +38,15 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>5A5B88CC2ED58D397732CD9632FF11E16E18FB03</string>
 			<key>IDESourceControlWCCName</key>
-			<string>2015_Jan</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAAAD54D2FFE42761A79DEEBEAF9C361397E0B1C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CarouselProject</string>
 		</dict>
 	</array>
 </dict>
